@@ -189,8 +189,4 @@ def main():
             else:
                 print("Opção inválida!")
 
-        print(usuarios)
-        print(contas)
-
-        print(extrato_contas)
 main()
