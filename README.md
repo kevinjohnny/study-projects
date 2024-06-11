@@ -1,5 +1,5 @@
-# dio-bootcamps
-Repository to keep my projects from the DIO bootcamps
+# Study projects
+Repository to keep my projects, originally made to accompany my resolutions of DIO project challenges
 
 Learning from: 
 
