@@ -19,7 +19,8 @@ public class iPhoneModel implements Browser, MusicPlayer, Phone{
 		System.out.println("NOVA ABA ABERTA");
 	}
 	public void numeroAbas() {
-		System.out.println("Abas abertas: " + this.abas);
+		//System.out.println("Abas abertas: " + this.abas);
+		System.out.println(String.format("ABAS ABERTAS: %d", this.abas));
 	}
 	public void atualizarPagina(){
 		System.out.println("PAGINA ATUALIZADA");

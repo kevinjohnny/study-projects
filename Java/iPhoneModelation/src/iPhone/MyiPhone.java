@@ -23,6 +23,7 @@ public class MyiPhone {
 		
 
 		iPhone.ligar("+55(00) 99999-9999");
+		iPhone.iniciarCorreioVoz();
 		iPhone.atender();
 		iPhone.tocar();
 		iPhone.desligar();
